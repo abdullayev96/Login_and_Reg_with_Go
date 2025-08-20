@@ -4,8 +4,8 @@ import (
     "golang.org/x/crypto/bcrypt"
     "gorm.io/gorm"
 
-    "codesignal.com/todoapp/models"
-    "codesignal.com/todoapp/repositories/user_repository"
+    "Login_Reg_Go/models"
+    "Login_Reg_Go/repositories/user_repository"
 )
 
 

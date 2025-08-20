@@ -3,8 +3,8 @@ package router
 import (
     "github.com/gin-gonic/gin"
 
-    "codesignal.com/todoapp/controllers"
-    "codesignal.com/todoapp/repositories/db"
+    "Login_Reg_Go/controllers"
+    "Login_Reg_Go/repositories/db"
 )
 
 

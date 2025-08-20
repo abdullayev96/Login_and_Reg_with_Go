@@ -3,7 +3,7 @@ package user_repository
 import (
     "gorm.io/gorm"
 
-    "codesignal.com/todoapp/models"
+    "Login_Reg_Go/models"
 )
 
 

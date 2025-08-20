@@ -7,7 +7,7 @@ import (
     "gorm.io/gorm"
     "github.com/go-playground/validator/v10"
 
-    "codesignal.com/todoapp/services"
+    "Login_Reg_Go/services"
 )
 var validate = validator.New()
 
